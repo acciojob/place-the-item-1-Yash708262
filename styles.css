@@ -1,2 +1,12 @@
+.holder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
 
+.item {
+  width: 100px; /* Or any fixed width */
+  height: 100px;
+	background-color:yellow;
+}
 /* Your CSS Code here. */
